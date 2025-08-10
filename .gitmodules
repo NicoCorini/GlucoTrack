@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/NicoCorini/GlucoTrack_app
+[submodule "api"]
+	path = api
+	url = https://github.com/NicoCorini/GlucoTrack_api
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/NicoCorini/GlucoTrack_MonitoringTask
